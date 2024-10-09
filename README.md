@@ -2,7 +2,7 @@
 - 👀 I’m interested in cyber security 
 - 🌱 I’m currently learning cloud solution architecture
 - 💞️ I’m looking to collaborate on many projects that I can
-- 📫 How to reach me  Telegram:@ Fynx2019
+- 📫 How to reach me  luccafelippe42@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: i'm always learning something
 
