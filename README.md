@@ -2,7 +2,7 @@
 # About Me
 Hi, I'm @Xnyf! 👋
 
-![Xnyf's Avatar](https://avatars.githubusercontent.com/u/149964631?s=400&u=b4c7d9dbfb59aa60ae634d17b50d02e86311d93f&v=4) <!-- Replace with your GitHub avatar URL -->
+![Xnyf's Avatar](https://avatars.githubusercontent.com/u/149964631?s=400&u=d69337836f55e33494a9349ee7a13cba82d9b0cf&v=4) <!-- Replace with your GitHub avatar URL -->
 
 I'm a cyber security enthusiast and cloud solution architecture learner. 🌱 I'm always looking to collaborate on new projects and learn from others.
 
