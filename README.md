@@ -2,8 +2,6 @@
 # Felippe
 
  # CyberSecurity/Network Architecture/AWS
-
-# Location: Nova Trento/SC/Brazil
 # 
 # Introduction
 # 
